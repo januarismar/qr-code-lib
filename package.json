@@ -1,0 +1,11 @@
+{
+  "name": "qr-code-lib",
+  "version": "1.0.0",
+  "description": "QR Code Library untuk Sistem Aset Sekolah",
+  "main": "dist/qrcode.min.js",
+  "files": ["dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/januarismar/qr-code-lib.git"
+  }
+}
